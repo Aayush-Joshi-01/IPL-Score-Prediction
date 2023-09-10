@@ -1,4 +1,4 @@
-# IPL Score Prediction System Readme
+# IPL Score Prediction System
 
 ![IPL Logo](https://odishabytes.com/wp-content/uploads/2020/09/IPL-logo.jpg)
 
